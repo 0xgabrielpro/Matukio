@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eventright Pro User App Add-on
 Release Version 1.3.0
 
@@ -12,3 +13,7 @@ Release Version 1.3.0
 java version "1.8.0_291"
 Java(TM) SE Runtime Environment (build 1.8.0_291-b10)
 Java HotSpot(TM) 64-Bit Server VM (build 25.291-b10, mixed mode)
+=======
+# Matukio
+Arusha Technical College Final Year Project
+>>>>>>> origin/main
