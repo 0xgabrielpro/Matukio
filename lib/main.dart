@@ -125,12 +125,8 @@ getOneSingleToken(String appId) async {
     print("One Signal Token :$userId");
   }
   if (SharedPreferenceHelperUtils.getString(Preferences.onesignalPushToken) == "") {
-    if (userId != null) {
-      SharedPreferenceHelperUtils.setString(Preferences.onesignalPushToken, userId);
-    } else {
-      SharedPreferenceHelperUtils.setString(Preferences.onesignalPushToken, '');
+    SharedPreferenceHelperUtils.setString(Preferences.onesignalPushToken, userId!);
     }
-  }
 }
 
 class _MyAppState extends State<MyApp> {

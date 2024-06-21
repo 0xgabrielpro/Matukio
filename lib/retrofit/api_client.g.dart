@@ -13,7 +13,7 @@ class _RestClient implements RestClient {
     this._dio, {
     this.baseUrl,
   }) {
-    baseUrl ??= 'https://_enter_your_base_url_here_/api/user/';
+    baseUrl ??= 'https://matukio.summitseekers.co.tz/api/user/';
   }
 
   final Dio _dio;

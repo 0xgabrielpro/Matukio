@@ -57,7 +57,7 @@ dependencies:
   image_picker: ^0.8.7+5
   share_plus: ^7.0.2
   url_launcher: ^6.1.11
-  intl: ^0.18.0
+  intl: 0.19.0
   timezone: ^0.9.2
   onesignal_flutter: ^3.5.1
   webview_flutter_wkwebview: ^3.9.2
@@ -67,6 +67,9 @@ dependencies:
   country_code_picker: ^3.0.0
 
 
+  http: any
+  uuid: any
+  dio: any
 dev_dependencies:
   flutter_test:
     sdk: flutter

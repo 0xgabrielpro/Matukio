@@ -8,11 +8,11 @@ class Apis {
   // TODO Setup: Change the base url, In some cases you need to add  /public  after the base url
   // After changing the base url run the below command in terminal:
   // flutter pub run build_runner build --delete-conflicting-outputs
-  static const String baseUrl = "https://_enter_your_base_url_here_/api/user/"; //do not remove /api/user/
+  static const String baseUrl = "https://matukio.summitseekers.co.tz/api/user/"; //usitoe /api/user/
 
   // TODO Setup: Change the url below, In some cases you need to add  /public  after the base url
   static const String urlForSharingIntent =
-      "https://your_website_name.domain"; // Output will be like this: "Check out our website https://xyz.abc"
+      "https://matukio.summitseekers.co.tz"; // Output will be like this: "Check out our website https://xyz.abc"
 
   static const String login = 'login';
   static const String register = 'register';

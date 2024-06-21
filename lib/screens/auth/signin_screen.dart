@@ -387,11 +387,7 @@ class _LoginScreenState extends State<LoginScreen> with TickerProviderStateMixin
     }
     if (SharedPreferenceHelperUtils.getString(Preferences.onesignalPushToken) == "" ||
         SharedPreferenceHelperUtils.getString(Preferences.onesignalPushToken) == "N/A") {
-      if (userId != null) {
-        SharedPreferenceHelperUtils.setString(Preferences.onesignalPushToken, userId);
-      } else {
-        SharedPreferenceHelperUtils.setString(Preferences.onesignalPushToken, '');
-      }
-    }
+      SharedPreferenceHelperUtils.setString(Preferences.onesignalPushToken, userId!);
+        }
   }
 }
