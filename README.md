@@ -1,10 +1,15 @@
-![Logo](https://i.imgur.com/y0Iq1UC.png)
-![Logo](https://i.imgur.com/DlN34E5.png)
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/y0Iq1UC.png" alt="Logo 1" />
+</div>
+
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/DlN34E5.png" alt="Logo 2" />
+</div>
 
 
 # Android Events Booking Application
 
-My name is Maxmillian Bakarani Urio, a final year Computer Science student at Arusha Technical College (Admission No. 21050512067). As part of my final year project, I am developing an Android application that allows users to book and view various events across multiple categories such as weddings, sports, festivals, graduations, and charity events.
+My name is Maxmillian Bakarani Urio, a final-year Computer Science student at Arusha Technical College (Admission No. 21050512067). As part of my final year project, I am developing an Android application that allows users to book and view various events across multiple categories such as weddings, sports, festivals, graduations, and charity events.
 
 Event organizers can use this application to gain insights into their events, including attendee information and other relevant metrics.
 
