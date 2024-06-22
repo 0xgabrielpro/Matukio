@@ -45,7 +45,7 @@ Throughout the course of this project, I gained invaluable experience and insigh
 
 ### 🌐 Hosting and Server Administration
 
-One of the foundational elements of this project was understanding how to host applications effectively. I delved into server administration, learning how to configure and maintain servers to ensure optimal performance and security. This involved setting up web servers, managing databases, and ensuring that the server environment was stable and secure. I faced challenges such as configuring firewalls, managing server load, and dealing with unexpected downtimes. To overcome these, I studied best practices, leveraged online resources, and experimented with different configurations until I found robust solutions.
+One of the foundational elements of this project was understanding how to host applications effectively. I delved into server administration, learning to configure and maintain servers to ensure optimal performance and security. This involved setting up web servers, managing databases, and ensuring that the server environment was stable and secure. I faced challenges such as configuring firewalls, managing server load, and dealing with unexpected downtimes. To overcome these, I studied best practices, leveraged online resources, and experimented with different configurations until I found robust solutions.
 
 ### 📱 Android Development
 
@@ -65,7 +65,7 @@ Working on this project also taught me the importance of collaboration. Whether 
 
 ### 📅 Additional Insights
 
-Beyond the technical skills, I also learned the importance of planning and time management. Breaking down the project into smaller, manageable tasks, setting realistic deadlines, and continuously monitoring progress helped in keeping the project on track. Furthermore, embracing a mindset of continuous learning and being open to feedback significantly contributed to personal and project growth.
+Beyond the technical skills, I also learned the importance of planning and time management. Breaking down the project into smaller, manageable tasks, setting realistic deadlines, and continuously monitoring progress helped keep the project on track. Furthermore, embracing a mindset of continuous learning and being open to feedback significantly contributed to personal and project growth.
 
 In summary, this project was a comprehensive learning experience that enhanced my technical abilities, problem-solving skills, and collaborative approach. The challenges faced and the solutions implemented not only enriched my knowledge but also prepared me for future projects with similar complexities.
 
@@ -73,7 +73,7 @@ In summary, this project was a comprehensive learning experience that enhanced m
 
 If you have any feedback, please feel free to reach out to me via email or Telegram:
 
-- **Email:** [uriomaxmillian@gmail.com](mailto:uriomaxmillian@gmail.com)
+- **Email:** [contactmatukio.summitseekers.co.tz](mailto:contactmatukio.summitseekers.co.tz)
 - **Telegram:** [airiermonster](https://t.me/airiermonster)
 
 
