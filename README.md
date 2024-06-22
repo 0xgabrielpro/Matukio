@@ -1,9 +1,9 @@
 <div style="text-align: center;">
-    <img src="https://i.imgur.com/y0Iq1UC.png" alt="Logo 1" />
+  <br>  <img src="https://i.imgur.com/y0Iq1UC.png" alt="Logo 1" />
 </div>
 
 <div style="text-align: center;">
-    <img src="https://i.imgur.com/DlN34E5.png" alt="Logo 2" />
+ <br>   <img src="https://i.imgur.com/DlN34E5.png" alt="Logo 2" />
 </div>
 
 
